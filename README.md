@@ -5,10 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=sivasai37&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sivasai37&theme=algolia&margin-w=15&margin-h=15" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -38,51 +34,6 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,javascript,typescript,react,nextjs,nodejs,express,mongodb,postgresql,git,github,docker,aws,postman,html,css,tailwind" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🎨 Collaborative Drawing Application
-
-🔗 https://github.com/sivasai37/ExcailDraw
-
-A real-time collaborative whiteboard application built using:
-
-- Next.js
-- Node.js
-- Express.js
-- WebSockets
-
-Features:
-
-- Real-time synchronization
-- Room-based collaboration
-- Multi-user drawing support
-- Low-latency communication
-
----
-
-### 🏙️ Civic Connect – AI Powered Civic Issue Reporting Platform
-
-Full-stack civic issue reporting platform.
-
-Features:
-
-- AI Complaint Validation
-- AI Categorization
-- GPS-based Reporting
-- Role-Based Access Control
-- Real-Time Status Tracking
-- Proof of Resolution Uploads
-- Gamification Reward System
-
-Tech Stack:
-
-- React.js
-- TypeScript
-- Express.js
-- MongoDB
 
 ---
 
@@ -143,7 +94,7 @@ Tech Stack:
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivasai37&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=sivasai37&theme=tokyonight" />
 </p>
 
 ---
@@ -175,5 +126,3 @@ Tech Stack:
 ## ⚡ Fun Fact
 
 I enjoy transforming ideas into scalable full-stack applications and solving challenging algorithmic problems.
-
-```
